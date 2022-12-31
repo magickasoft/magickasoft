@@ -30,19 +30,19 @@ Github, Bitbucket, Gitlab, SVN, VSTS, Jira, Trello
 
 ### Part of the portfolio:
 Gett Business Solutions
-https://play.google.com/store/apps/details?id=com.onetransport.enterprise
-https://itunes.apple.com/us/app/one-transport/id1352979619?l=ru&ls=1&mt=8
+[google](https://play.google.com/store/apps/details?id=com.onetransport.enterprise)
+[apple](https://itunes.apple.com/us/app/one-transport/id1352979619?l=ru&ls=1&mt=8)
 
 Match AuPair (dating type app)
-https://play.google.com/store/apps/details?id=com.matchaupair
-https://itunes.apple.com/us/app/match-aupair/id1302881002?l=ru&ls=1&mt=8
-
-Clapit (social app)
-https://itunes.apple.com/ru/app/clapit/id1062124740?mt=8
+[google](https://play.google.com/store/apps/details?id=com.matchaupair)
+[apple](https://itunes.apple.com/us/app/match-aupair/id1302881002?l=ru&ls=1&mt=8)
 
 bird.coach(fitness app)
-https://apps.apple.com/us/app/bird-coach/id1499797296?ls=1
-https://play.google.com/store/apps/details?id=coach.bird.app&hl=ru
+[google](https://play.google.com/store/apps/details?id=coach.bird.app&hl=ru)
+[apple](https://apps.apple.com/us/app/bird-coach/id1499797296?ls=1)
+
+Clapit (social app)
+[apple](https://itunes.apple.com/ru/app/clapit/id1062124740?mt=8)
 
 Feel free to contact me if you need more information
 
@@ -54,17 +54,9 @@ https://career.habr.com/sjs-master
 https://docs.google.com/document/d/1ypt6AIFWwYOJfSfSPLOw93CgSI-oZ0f1Dms_qkQWk9U
 
 
-<!--
-**magickasoft/magickasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Coding Stats:**  
 
-Here are some ideas to get you started:
+[![magickasoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=magickasoft&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![magickasoft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=magickasoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
