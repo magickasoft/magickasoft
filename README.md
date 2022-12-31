@@ -58,6 +58,6 @@ https://docs.google.com/document/d/1ypt6AIFWwYOJfSfSPLOw93CgSI-oZ0f1Dms_qkQWk9U
 
 [![magickasoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=magickasoft&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![magickasoft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=magickasoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![magickasoft's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=magickasoft)](https://github.com/anuraghazra/github-readme-stats)
 
 
