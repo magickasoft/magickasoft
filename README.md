@@ -49,10 +49,6 @@ Feel free to contact me if you need more information
 SkypeID: sjs.master
 Telegram: @evgeny_shmakov
 
-https://www.upwork.com/workwith/evgenys26
-https://career.habr.com/sjs-master
-https://docs.google.com/document/d/1ypt6AIFWwYOJfSfSPLOw93CgSI-oZ0f1Dms_qkQWk9U
-
 
 **Coding Stats:**  
 
