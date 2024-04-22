@@ -28,8 +28,6 @@ Unit testing, E2E testing, mocka, jest, karma, hermiona, ava, enzyme, sinon, sel
 - Scrum / Agile environments:
 Github, Bitbucket, Gitlab, SVN, VSTS, Jira, Trello
 
-Feel free to contact me if you need more information
-
 **Coding Stats:**  
 
 [![magickasoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=magickasoft&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
