@@ -28,27 +28,7 @@ Unit testing, E2E testing, mocka, jest, karma, hermiona, ava, enzyme, sinon, sel
 - Scrum / Agile environments:
 Github, Bitbucket, Gitlab, SVN, VSTS, Jira, Trello
 
-### Part of the portfolio:
-Gett Business Solutions
-[google](https://play.google.com/store/apps/details?id=com.onetransport.enterprise)
-[apple](https://itunes.apple.com/us/app/one-transport/id1352979619?l=ru&ls=1&mt=8)
-
-Match AuPair (dating type app)
-[google](https://play.google.com/store/apps/details?id=com.matchaupair)
-[apple](https://itunes.apple.com/us/app/match-aupair/id1302881002?l=ru&ls=1&mt=8)
-
-bird.coach(fitness app)
-[google](https://play.google.com/store/apps/details?id=coach.bird.app&hl=ru)
-[apple](https://apps.apple.com/us/app/bird-coach/id1499797296?ls=1)
-
-Clapit (social app)
-[apple](https://itunes.apple.com/ru/app/clapit/id1062124740?mt=8)
-
 Feel free to contact me if you need more information
-
-SkypeID: sjs.master
-Telegram: @evgeny_shmakov
-
 
 **Coding Stats:**  
 
